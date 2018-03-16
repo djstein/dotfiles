@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AllowClipboardAccess</key>
+	<true/>
 	<key>AppleAntiAliasingThreshold</key>
 	<integer>1</integer>
 	<key>AppleScrollAnimationEnabled</key>
@@ -786,17 +788,17 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 126 606 469 0 0 1920 1200 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>206 546 796 473 0 0 1920 1200 </string>
+	<string>206 572 796 473 0 0 1920 1200 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>40 40 900 1120 0 0 1920 1200 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>337 1923 589 674 -333 1200 2560 1440 </string>
+	<string>981 47 897 1106 0 0 1920 1200 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>981 47 897 1106 0 0 1920 1200 </string>
+	<string>42 47 1835 1106 0 0 1920 1200 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>981 47 897 1106 0 0 1920 1200 </string>
+	<string>981 47 897 546 0 0 1920 1200 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>981 43 897 274 0 0 1920 1200 </string>
+	<string>981 323 897 274 0 0 1920 1200 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
 	<string>981 43 897 274 0 0 1920 1200 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
@@ -2346,7 +2348,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-01-23T16:13:24Z</date>
+	<date>2018-03-16T17:37:42Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
